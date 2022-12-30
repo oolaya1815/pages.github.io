@@ -3,23 +3,16 @@
 <hr size="2px" color="black" />
 
 ### Journal Publications
-<p style='text-align: justify;'>
   
 - **Olaya F.R.** & Bray J.D. 2022. “Strain Potential of Liquefied Soil.” Journal of Geotechnical and Geoenvironmental Engineering. 148(11): 04022099 1-16
 - Bray J.D., & **Olaya F.R.**, “2022 H. Bolton Seed Lecture: Evaluating Liquefaction Effects.” Journal of Geotechnical and Geoenvironmental Engineering (Under Revision)
 - **Olaya F.R.** & Bray J.D., “Post-Liquefaction Free-field Ground Settlement Case Histories.” International Journal of Geoengineering Case Histories (Under Revision)
-  
-</p>
 
 ### Technical Reports
-<p style='text-align: justify;'>
   
 1.	**Olaya F.R.** & Bray J.D. “CPT case histories of post-liquefaction free-field ground settlement.”
 Geosystems Engineering Report UCB/GT 2022-02, Univ. of California, Berkeley (2022)
 2.	Bray J.D. & **Olaya F.R.** “Liquefaction effects and a probabilistic CPT-based liquefaction ground settlement procedure.” Geosystems Engineering Report UCB/GT 2022-04, Univ. of California, Berkeley (2022)
-  
-  </p>
-  
 
 ### Conference Contributions
 
